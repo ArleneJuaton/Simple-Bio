@@ -13,7 +13,7 @@ Software Engineering
 
   
 I am not a Computer Science major and this is my first time coding but i've always wanted to learn how to code. 
-A microbiologist by academic training and i am currently working in the BioTech industry. 
+A microbiologist by academic training and I am currently working in the BioTech industry. 
 Currently, I deal with a lot of data at my work so i am interested in learning Python and SQL as well in order to make sense of multitude of data.
 Dealing with multitude of data is one of the reason i wanted to learn how to code. Perhaps, become a Data Scientist later on.
 I am also interested in building a website on the side so I am currently enrolled in MIT Full Stack Development with MERN Bootcamp. 
