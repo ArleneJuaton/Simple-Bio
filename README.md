@@ -20,7 +20,7 @@ I am also interested in building a website on the side so I am currently enrolle
 I am hoping to start on my coding journey with this bootcamp with the intention on expanding my skills and/or starting a new career.
 My goal is to create multiple projects to add to my portfolio that will show the skills I have learned along the way.
 
-I have included three html files that i have started and sort of used as a practice project for this course. 
+I have included three html files (index.html, cat.html and Origin_Story.html) that i have started and sort of used as a practice project for this course. 
 
 
 
